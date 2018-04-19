@@ -41,7 +41,7 @@ public class DodajKursGUI extends JFrame {
 		setResizable(false);
 		setTitle("Dodaj kurs");
 		setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
-		setBounds(100, 100, 486, 334);
+		setBounds(100, 100, 450, 300);
 		setLocationRelativeTo(menjacnica);
 		contentPane = new JPanel();
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
